@@ -6,7 +6,6 @@ This project is about operationalizing a machine learning API as a microservice.
 
 
 
-
 Project Tasks:
 The following tasks have been completed:
 
